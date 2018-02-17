@@ -2,3 +2,4 @@
 target
 /bin
 .bundle
+.ruby-version

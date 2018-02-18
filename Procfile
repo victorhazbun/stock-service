@@ -1,0 +1,1 @@
+web: java -Xmx384m -Xss512K -jar stock-service.war
